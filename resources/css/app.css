@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input:active{
+    box-shadow: none;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+
